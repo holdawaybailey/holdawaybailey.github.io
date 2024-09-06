@@ -2,31 +2,31 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Bailey M Holdaway
     - name: Date of Birth
-      value: 14th March 1879
+      value: 06/06/1999
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Masters
+      institution: Utah State University
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Description 1. Masters of Environment and Society
+        - Description 2. Advisor - Dr. Courtney Flint
+        - title: Description 3. Thesis Title: Perceptions and experiences of irrigation companies in the Great Salt Lake Basin, Utah, USA
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelors of Science
+      institution: Utah State University
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Description 1. Major - Management and Restoraation of Aquatic Ecosystems
+        - Description 2. Graduated Magna Cum Laude
 
 - title: Experience
   type: time_table
